@@ -28,10 +28,8 @@
 
 ## پیش‌نمایش
 
-![صفحه اصلی فروشگاه](screenshots/homepage.png)
-![سبد خرید](screenshots/cart.png)
-![صفحه پرداخت](screenshots/checkout.png)
-
+![سبد خرید](cart.png)
+!
 ## اطلاعات بیشتر
 
 برای اطلاعات بیشتر یا همکاری، لطفاً با من تماس بگیرید.
